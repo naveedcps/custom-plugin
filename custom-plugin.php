@@ -148,3 +148,4 @@ function intercept_wc_template( $template, $template_name, $template_path ) {
 	return $template;
 
 }
+
